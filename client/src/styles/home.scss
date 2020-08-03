@@ -1,0 +1,37 @@
+.home-container {
+    background-image: url("https://res.cloudinary.com/dfulxq7so/image/upload/v1596470988/imageedit_4_6032652574_qhbqam.png"), url("https://res.cloudinary.com/dfulxq7so/image/upload/v1596471601/imageedit_8_5749893341_zyev8g.png");
+    background-position: left, right top;
+    background-repeat: no-repeat, no-repeat;
+    background-color: #B3F4F1;
+    height: 100vh;
+    padding: 30vh;
+    font-family: 'Poppins', sans-serif;
+
+    h1 {
+        // color: white
+    }
+
+    input {
+        margin-top: 20px;
+        height: 40px;
+        width: 30%;
+        border-radius: 4px;
+        border: 1px solid #909796;
+        font-size: 18px;
+        padding-left: 10px;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    button {
+        margin-top: 20px;
+        margin-left: 10px;
+        height: 45px;
+        background-color: #222928;
+        color: white;
+        width: 10%;
+        border-radius: 4px;
+        border: 1px solid #909796;
+        font-size: 18px;
+    }
+    
+}
